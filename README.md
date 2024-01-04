@@ -1,6 +1,5 @@
 # Pytest Improve Runtime Example
-This repo contains the sample code for the article on <>
-
+This repo contains the sample code for the article on [13 Proven Ways To Improve Test Runtime With Pytest](https://pytest-with-eric.com/pytest-advanced/pytest-improve-runtime/)
 
 # Requirements
 * Python (3.11.4)
